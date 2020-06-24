@@ -14,11 +14,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/FelipeJanotte/next-level-week#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FelipeJanotte/next-level-week#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FelipeJanotte/next-level-week#-baixar">Baixar</a>
-</p>
 
 ---
 
